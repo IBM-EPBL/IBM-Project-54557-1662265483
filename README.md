@@ -1,5 +1,5 @@
 # IBM-Project-54557-1662265483
-Web Phishing Detection
+Web Phishing Detection 
 
 ![image](https://user-images.githubusercontent.com/85397546/199650294-04e16b50-6998-4687-b514-653aa5a7c1ab.png)
 )
@@ -70,6 +70,6 @@ Conclusion:
          
          
          
-         Technical Architecture:
+         Technical Architecture for web phishing:
 
 ![191585875-9db35871-72b5-476e-ac9b-3795cf3778de](https://user-images.githubusercontent.com/85397546/199651037-95eb9a2a-ce7d-4ebc-b486-03519627d2c2.png)
