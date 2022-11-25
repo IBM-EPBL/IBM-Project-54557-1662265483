@@ -46,7 +46,7 @@ In order to detect and predict e-banking phishing websites, we proposed an intel
 
 
 
-Project Objectives :
+Project overall Objectives :
                * we’ll be able to understand the problem to classify if it is a regression or a classification kind of problem.
               
                •	we will be able to know how to pre-process/clean the data using different data pre-processing techniques.
